@@ -1,11 +1,11 @@
 import java.util.*;
+import javax.swing.*;
 import javax.imageio.ImageIO;
 import java.util.Timer;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.image.*;
 import java.io.*;
-import javax.swing.*;
 
 class Game extends JPanel {
     private Timer gameTimer;
